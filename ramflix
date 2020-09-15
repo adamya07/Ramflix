@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Harsh Hub</title>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+		<link rel="icon" href="netflix/logo.ico" type="icon/ico">
+		<style>
+			.indent-1 {float: left;}
+			.indent-1 section {width: 50%; float: left;}
+		</style>
+		<style>
+			.tab {
+			margin-left: 2.5em
+		   }
+		</style>
+        <link rel="stylesheet"type="text/css"href="bootstrap.css">
+    </head>
+        <body style="background-color:black; font-family: 'Open Sans', sans-serif;">
+			<h1 class="text-center" style="margin-top: 70px;"><a href=#><img src="https://fontmeme.com/permalink/200913/06fd2e9323c962524c1657833ecbe303.png" alt="bebas-neue-font" border="0"></a></h1>
+			
+
+		<section class="indent-1">
+			
+          <div class="container" style="margin-left: 2.5em" >
+			<h1 style="color:white"> <br><br>The Pursuit of Happiness</h1>
+			<video width="400" poster="netflix/poster/pursuit-happiness.jpg" controls>
+				
+                <source src="netflix/TPOH.mp4" type="video/mp4">
+            </video>
+			</div>
+		</section>
+
+
+		<section class="indent-1">
+			
+          <div class="container" style="margin-left: 2.5em" >
+			<h1 style="color:white"> <br><br>Hera Pheri</h1>
+			<video width="400" poster="netflix/poster/herapheri.jpg" controls>
+				
+                <source src="netflix/hera pheri.mp4" type="video/mp4">
+            </video>
+			</div>
+		</section>
+			
+			<section class="indent-1">
+			
+          <div class="container" style="margin-left: 2.5em" >
+			<h1 style="color:white"> <br><br>Chup Chup Ke</h1>
+			<video width="400" poster="netflix/poster/chup chup ke.jpg" controls>
+				
+                <source src="netflix/chup chup ke.mp4" type="video/mp4">
+            </video>
+			</div>
+		</section>
+			
+			<section class="indent-1">
+			
+          <div class="container" style="margin-left: 2.5em" >
+			<h1 style="color:white"> <br><br>PK</h1>
+			<video width="400" poster="netflix/poster/pk.jpg" controls>
+				
+                <source src="netflix/pk.mp4" type="video/mp4">
+            </video>
+			</div>
+		</section>
+		
+		<section class="indent-1">
+			
+          <div class="container" style="margin-left: 2.5em" >
+			<h1 style="color:white"> <br><br>Fukrey</h1>
+			<video width="400" poster="netflix/poster/fukre.jpg" controls>
+				
+                <source src="netflix/FUKRE.mp4" type="video/mp4">
+            </video>
+			</div>
+		</section>
+
+		<section class="indent-1">
+			
+			<div class="container" style="margin-left: 2.5em" >
+			  <h1 style="color:white"> <br><br>Welcome Back</h1>
+			  <video width="400" poster="netflix/poster/welcome back.jpg" controls>
+				  
+				  <source src="netflix/welcome back.mp4" type="video/mp4">
+			  </video>
+			  </div>
+		  </section>
+		
+		  <section class="indent-1">
+			
+			<div class="container" style="margin-left: 2.5em" >
+			  <h1 style="color:white"> <br><br>Hungama</h1>
+			  <video width="400" poster="netflix/poster/hungama.jpg" controls>
+				  
+				  <source src="netflix/hungama.mp4" type="video/mp4">
+			  </video>
+			  </div>
+		  </section>
+
+			
+			
+		
+        </body>
+    
+</html>
