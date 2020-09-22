@@ -16,6 +16,9 @@
         <link rel="stylesheet"type="text/css"href="bootstrap.css">
     </head>
         <body style="background-color:black; font-family: 'Open Sans', sans-serif;">
+<nav class="navbar navbar-light bg-light">
+  <span class="navbar-brand mb-0 h1">Ramfli</span>
+</nav>
 			<h1 class="text-center" style="margin-top: 70px;"><a href=#><img src="https://fontmeme.com/permalink/200913/06fd2e9323c962524c1657833ecbe303.png" alt="bebas-neue-font" border="0"></a></h1>
 			
 
