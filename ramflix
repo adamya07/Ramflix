@@ -21,7 +21,8 @@
 </nav>
 			<h1 class="text-center" style="margin-top: 70px;"><a href=#><img src="https://fontmeme.com/permalink/200913/06fd2e9323c962524c1657833ecbe303.png" alt="bebas-neue-font" border="0"></a></h1>
 			
-
+<div class="rows">
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 		<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
@@ -32,8 +33,8 @@
             </video>
 			</div>
 		</section>
-
-
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 		<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
@@ -44,7 +45,8 @@
             </video>
 			</div>
 		</section>
-			
+			</div>
+			<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 			<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
@@ -55,7 +57,7 @@
             </video>
 			</div>
 		</section>
-			
+			</div> </div>
 			<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
