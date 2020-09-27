@@ -53,11 +53,13 @@
 			<h1 style="color:white"> <br><br>Chup Chup Ke</h1>
 			<video width="400" poster="netflix/poster/chup chup ke.jpg" controls>
 				
-                <source src="netflix/chup chup k.mp4" type="video/mp4">
+                <source src="netflix/chup chup ke.mp4" type="video/mp4">
             </video>
 			</div>
 		</section>
 			</div> </div>
+			<div class=rows>
+			<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 			<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
@@ -68,7 +70,8 @@
             </video>
 			</div>
 		</section>
-		
+		</div>
+		<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 		<section class="indent-1">
 			
           <div class="container" style="margin-left: 2.5em" >
@@ -79,7 +82,8 @@
             </video>
 			</div>
 		</section>
-
+</div>
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
 		<section class="indent-1">
 			
 			<div class="container" style="margin-left: 2.5em" >
@@ -90,7 +94,7 @@
 			  </video>
 			  </div>
 		  </section>
-		
+		</div></div>
 		  <section class="indent-1">
 			
 			<div class="container" style="margin-left: 2.5em" >
